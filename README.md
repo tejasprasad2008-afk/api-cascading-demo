@@ -162,7 +162,6 @@ This platform provides empirical validation for published research on API cascad
 📄 Publication: SSRN Electronic Journal
 👁️ Views: 415+
 📥 Downloads: 20+
-📚 Citations: 1
 🗓️ Published: February 2026
 🌐 Live Demo: api-cascading-demo.vercel.app
 ```
@@ -230,8 +229,8 @@ MIT License — See [LICENSE](LICENSE) file for details.
 
 **Tejas Prasad**
 - Independent Researcher
-- Age 17, Al Ain, UAE
-- Email: tejasprasad2008@gmail.com
+- UAE
+- Email: tejas.prasad.res@gmail.com
 
 ### Links
 
