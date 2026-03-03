@@ -7,7 +7,7 @@
   <p>
     <strong>Published Research Platform</strong> |
     <strong>415+ Views</strong> |
-    <strong>1 Citation</strong>
+    <strong>20+ Downloads</strong>
   </p>
 
   [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://api-cascading-demo.vercel.app/)
