@@ -251,4 +251,20 @@ Made with ❤️ by [Tejas Prasad](https://github.com/tejasprasad2008-afk)
 [![SSRN](https://img.shields.io/badge/SSRN-Author%20Profile-blue?style=flat-square)](https://ssrn.com/author=9883192)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=NFpwdbUAAAAJ)
 
+---
+
+## ⚠️ Disclaimer
+
+This research platform uses publicly available APIs for demonstration purposes:
+
+- **CoinGecko API**: Used under fair use for research/educational purposes
+- **AllOrigins Proxy**: Public CORS proxy service  
+- **JSONPlaceholder**: Free test API designed for demonstrations
+
+All API endpoints used are publicly accessible and used within their terms of service. This project does not store, resell, or commercially exploit any data from these services.
+
+**For production use, please use direct API connections and respect rate limits.**
+
+---
+
 </div>
